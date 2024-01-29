@@ -1,0 +1,3 @@
+[submodule "submodules/instaCFS-benchmarks"]
+	path = submodules/instaCFS-benchmarks
+	url = git@github-anon:anonymous-271828/instaCFS-benchmarks.git
